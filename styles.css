@@ -1,12 +1,14 @@
-p{
-
+body{
+    margin: 8px;
+    display: block;
 }
 
-#travel{
-color: orangered;
+#mainHeading{
+    color: red;
 }
 
 
-.journey{
-color:firebrick
+.funParagraph{
+    color:green;
+    font-size: 80px;
 }
